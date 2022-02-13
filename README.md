@@ -23,7 +23,7 @@ Android流式布局，支持单选、多选等，适合用于产品标签等。
 
 ```java
 dependencies {
- compile 'com.hyman:flowlayout-lib:1.1.2'
+ implementation 'com.github.toorup:FlowLayout:v1.0.0'
 }
 ```
 
